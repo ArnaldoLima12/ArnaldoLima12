@@ -1,10 +1,10 @@
 <h1>Olá, eu sou o Arnaldo 🖐️</h1>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Https://www.linkedin.com/in/arnaldo-lima-23b325241)
+
 
 <div>
   <Img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArnaldoLima12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-   <Img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldoLima12&layout=compact&langs_count=16&theme=dracula">
+   <Img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldoLima12&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 
@@ -22,4 +22,11 @@
   <Img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
+
 <P>Transformando linhas de código em oportunidades de inovação.</p>
+
+##
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Https://www.linkedin.com/in/arnaldo-lima-23b325241)
+
+##
+![Snake animation]()
