@@ -3,7 +3,7 @@
 
 
 <div>
-  <Img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArnaldoLima12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <Img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArnaldoLima12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
    <Img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldoLima12&layout=compact&langs_count=16&theme=dracula">
 </div>
 
@@ -29,4 +29,3 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Https://www.linkedin.com/in/arnaldo-lima-23b325241)
 
 ##
-![Snake animation]()
