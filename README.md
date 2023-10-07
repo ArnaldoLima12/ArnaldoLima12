@@ -3,8 +3,8 @@
 
 
 <div style = "display: inline-block">
-  <Img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArnaldoLima12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-   <Img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldoLima12&layout=compact&langs_count=16&theme=dracula">
+  <Img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArnaldoLima12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+   <Img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaldoLima12&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 
